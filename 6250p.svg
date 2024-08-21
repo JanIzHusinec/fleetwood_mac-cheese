@@ -65,8 +65,8 @@
     <rect
        x="307.61258"
        y="-46.394028"
-       width="198.45863"
-       height="169.36353"
+       width="192.80177"
+       height="296.64276"
        id="rect5" />
     <linearGradient
        inkscape:collect="always"
@@ -545,25 +545,17 @@
        transform="matrix(0.26458333,0,0,0.26458333,-44.239434,29.343552)"
        id="text5"
        style="font-size:48px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;white-space:pre;shape-inside:url(#rect5);shape-padding:1.00857;display:inline;fill:#e00000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"><tspan
-         x="352.54489"
+         x="349.71677"
          y="14.663608"
-         id="tspan3"><tspan
+         id="tspan4"><tspan
            style="font-size:66.6667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:none"
-           id="tspan2">№6 </tspan></tspan><tspan
-         x="319.04878"
+           id="tspan1">№6 </tspan></tspan><tspan
+         x="316.22066"
          y="97.996982"
-         id="tspan11"><tspan
+         id="tspan7"><tspan
            style="font-size:66.6667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:none"
-           id="tspan5">250м 
-</tspan></tspan><tspan
-         x="308.62109"
-         y="182.01126"
-         id="tspan14"><tspan
-           dx="0 47.916691 37.076839 37.239609 37.434921 34.863297 38.899765 18.522141 22.200546 18.522125"
-           style="font-size:66.6667px;font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan12">Прицел - П</tspan><tspan
-           dx="47.916687"
+           id="tspan5">250м </tspan><tspan
            style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;stroke:none"
-           id="tspan13"> </tspan></tspan></text>
+           id="tspan6"> </tspan></tspan></text>
   </g>
 </svg>
