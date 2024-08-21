@@ -552,17 +552,17 @@
        style="font-size:48px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;white-space:pre;shape-inside:url(#rect5);shape-padding:1.00857;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"><tspan
          x="361.33884"
          y="14.663608"
-         id="tspan5"><tspan
-           style="font-size:66.6667px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px"
-           id="tspan4">№5 </tspan></tspan><tspan
+         id="tspan4"><tspan
+           style="font-size:66.6667px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;stroke:none"
+           id="tspan1">№5 </tspan></tspan><tspan
          x="346.69039"
          y="99.209709"
-         id="tspan9"><tspan
-           style="font-size:66.6667px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px"
-           id="tspan6">50м</tspan><tspan
+         id="tspan8"><tspan
+           style="font-size:66.6667px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;stroke:none"
+           id="tspan5">50м</tspan><tspan
            style="font-size:66.6667px;letter-spacing:0px;word-spacing:0px"
-           id="tspan7"> </tspan><tspan
+           id="tspan6"> </tspan><tspan
            style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
-           id="tspan8"> </tspan></tspan></text>
+           id="tspan7"> </tspan></tspan></text>
   </g>
 </svg>
