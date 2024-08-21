@@ -27,7 +27,7 @@
      showguides="true"
      inkscape:zoom="0.5"
      inkscape:cx="177"
-     inkscape:cy="477"
+     inkscape:cy="475"
      inkscape:window-width="1600"
      inkscape:window-height="829"
      inkscape:window-x="-8"
@@ -70,8 +70,8 @@
     <rect
        x="307.61258"
        y="-46.394028"
-       width="154.61801"
-       height="180.67725"
+       width="158.61801"
+       height="292.67725"
        id="rect5" />
     <linearGradient
        inkscape:collect="always"
@@ -249,19 +249,19 @@
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-34.48423,54.495099)"
        id="text5"
-       style="font-size:48px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;white-space:pre;shape-inside:url(#rect5);shape-padding:1.00857;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"><tspan
-         x="330.62497"
+       style="font-size:48px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;white-space:pre;shape-inside:url(#rect5);shape-padding:1.00857;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-opacity:1"><tspan
+         x="332.62497"
          y="14.663608"
-         id="tspan6"><tspan
+         id="tspan3"><tspan
            style="font-size:66.6667px;font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan1">№7 </tspan></tspan><tspan
-         x="318.26038"
+           id="tspan2">№7 </tspan></tspan><tspan
+         x="320.26038"
          y="97.996982"
-         id="tspan10"><tspan
+         id="tspan7"><tspan
            style="font-size:66.6667px;font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan8">50м</tspan><tspan
-           style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke:none"
-           id="tspan9">  </tspan></tspan></text>
+           id="tspan4">50м</tspan><tspan
+           style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
+           id="tspan5">  </tspan></tspan></text>
     <g
        id="g2"
        inkscape:label="sights"
